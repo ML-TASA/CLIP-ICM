@@ -1,7 +1,7 @@
 # CLIP-ICM
 ![Static Badge](https://img.shields.io/badge/ICML25-yellow)
 ![Static Badge](https://img.shields.io/badge/to_be_continue-orange)
-![Stars](https://img.shields.io/github/stars/WangJingyao07/Multi-Modal-Base)
+![Stars](https://img.shields.io/github/stars/ML-TASA/CLIP-ICM)
 
 This repository provides Pytorch implementation for [ICML2025] Learning Invariant Causal Mechanism from Vision-Language Models.
 
